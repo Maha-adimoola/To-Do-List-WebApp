@@ -4,14 +4,12 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 
 ## Table of Contents
 
-- [**To-Do List Web Application**](#to-do-list-web-application)
-  - [Table of Contents](#table-of-contents)
-  - [Project Description](#project-description)
-  - [Features](#features)
-  - [Technologies Used](#technologies-used)
-  - [How to Install and Run the Project](#how-to-install-and-run-the-project)
-    - [Optional (Using VS Code + Live Server)](#optional-using-vs-code--live-server)
-  - [How to Use the Project](#how-to-use-the-project)
+- [Project Description](#project-description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [Optional (Using VS Code + Live Server)](#optional-using-vs-code--live-server)
+- [How to Use the Project](#how-to-use-the-project)
 
 ## Project Description
 
